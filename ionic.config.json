@@ -1,0 +1,8 @@
+{
+  "name": "amuni",
+  "app_id": "b11f3fc1",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
